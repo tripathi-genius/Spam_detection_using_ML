@@ -8,3 +8,5 @@ It also helps to find the genuine emails, and it helps servers to safeguard your
 I used SVM and perceptron model to find spam in this repository.
 
 Please cite if you need this code.
+
+Data Credits: UC Irvine ML Repository
